@@ -1,0 +1,13 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES
+==================================
+Autor: Juan S. Araujo
+Fecha: 2025-01-14
+
+Resultados:
+19:52 Creacion de Log
+20:11 Creacion de pares.py
+19:47 Creacion de histograma.py
+20:12 Modificación de histograma.py
+21:45 Creacion de res_estadistico.py
+21:45 Creacion de primos.py
+21:45 Creacion de saludo.py
