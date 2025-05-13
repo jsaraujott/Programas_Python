@@ -1,0 +1,10 @@
+ESTE ES UN REGISTRO DE ACTIVIDADES DEL S7
+=========================================
+Autor: Juan S Araujo
+Fecha: 2025-04-28T20:40
+2404282053 Creacion de archivo Log
+2504282102 Creacion programa pares.py
+202505051932 Creacion programa histograma.py
+202505051959 Modificacion programa histograma.py
+202505052012 Creacion programa res_estadistico.py
+202505052018 Creacion programa primos.py
